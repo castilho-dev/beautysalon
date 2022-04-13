@@ -1,6 +1,6 @@
 # BeautySalon
 
-[View the website here.](castilho-dev.github.io/beautysalon)
+[Access the website here.](castilho-dev.github.io/beautysalon)
 
 <p align="center">
   <img alt="BeautySalon" src="preview.png" width="100%">
